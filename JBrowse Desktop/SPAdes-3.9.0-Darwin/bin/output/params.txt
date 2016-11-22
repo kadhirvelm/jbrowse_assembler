@@ -1,0 +1,31 @@
+Command line: ./spades.py	--12	/Users/Kadhir/Desktop/Things_to_Keep/This_Semester/JBrowse/SPAdes-3.9.0-Darwin/bin/A1.fasta	--12	/Users/Kadhir/Desktop/Things_to_Keep/This_Semester/JBrowse/SPAdes-3.9.0-Darwin/bin/A2.fasta	-o	/Users/Kadhir/Desktop/Things_to_Keep/This_Semester/JBrowse/SPAdes-3.9.0-Darwin/bin/output	--only-assembler	
+
+System information:
+  SPAdes version: 3.9.0
+  Python version: 2.7.11
+  OS: Darwin-16.0.0-x86_64-i386-64bit
+
+Output dir: /Users/Kadhir/Desktop/Things_to_Keep/This_Semester/JBrowse/SPAdes-3.9.0-Darwin/bin/output
+Mode: ONLY assembling (without read error correction)
+Debug mode is turned OFF
+
+Dataset parameters:
+  Multi-cell mode (you should set '--sc' flag if input data was obtained with MDA (single-cell) technology or --meta flag if processing metagenomic dataset)
+  Reads:
+    Library number: 1, library type: paired-end
+      orientation: fr
+      left reads: not specified
+      right reads: not specified
+      interlaced reads: ['/Users/Kadhir/Desktop/Things_to_Keep/This_Semester/JBrowse/SPAdes-3.9.0-Darwin/bin/A1.fasta', '/Users/Kadhir/Desktop/Things_to_Keep/This_Semester/JBrowse/SPAdes-3.9.0-Darwin/bin/A2.fasta']
+      single reads: not specified
+Assembly parameters:
+  k: automatic selection based on read length
+  Repeat resolution is enabled
+  Mismatch careful mode is turned OFF
+  MismatchCorrector will be SKIPPED
+  Coverage cutoff is turned OFF
+Other parameters:
+  Dir for temp files: /Users/Kadhir/Desktop/Things_to_Keep/This_Semester/JBrowse/SPAdes-3.9.0-Darwin/bin/output/tmp
+  Threads: 16
+  Memory limit (in Gb): 250
+
