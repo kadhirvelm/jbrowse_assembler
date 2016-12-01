@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['DesktopApp.py'],
-             pathex=['/Users/Kadhir/Desktop/Folders/This_Semester/JBrowse'],
+             pathex=['/Users/Kadhir/Desktop/Folders/This_Semester/jbrowse_assembler/JBrowse Desktop/DesktopApp'],
              binaries=None,
              datas=None,
              hiddenimports=[],
